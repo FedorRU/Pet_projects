@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.md#Описание-проекта)  
 [2. Постановка задачи](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.md#Постановка-задачи)  
-[3. Краткая информация о данных](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.mdКраткая-информация-о-данных)  
+[3. Краткая информация о данных](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/FedorRU/Pet_projects/edit/main/Comments_classification/README.md#Результат)  
 
